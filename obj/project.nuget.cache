@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lL7oG7r0mYE=",
+  "dgSpecHash": "Kz3ZyEqeUF0=",
   "success": true,
   "projectFilePath": "/Users/apple/DotnetExportApp/DotnetExportApp.csproj",
   "expectedPackageFiles": [
@@ -15,6 +15,7 @@
     "/Users/apple/.nuget/packages/microsoft.extensions.filesystemglobbing/9.0.3/microsoft.extensions.filesystemglobbing.9.0.3.nupkg.sha512",
     "/Users/apple/.nuget/packages/microsoft.extensions.primitives/9.0.3/microsoft.extensions.primitives.9.0.3.nupkg.sha512",
     "/Users/apple/.nuget/packages/microsoft.io.recyclablememorystream/3.0.1/microsoft.io.recyclablememorystream.3.0.1.nupkg.sha512",
+    "/Users/apple/.nuget/packages/questpdf/2025.5.0/questpdf.2025.5.0.nupkg.sha512",
     "/Users/apple/.nuget/packages/rotativa.aspnetcore/1.4.0/rotativa.aspnetcore.1.4.0.nupkg.sha512",
     "/Users/apple/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "/Users/apple/.nuget/packages/system.security.cryptography.pkcs/9.0.3/system.security.cryptography.pkcs.9.0.3.nupkg.sha512",
